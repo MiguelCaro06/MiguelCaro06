@@ -1,4 +1,4 @@
-# 👋 Hola, soy Miguel Caro  
+# 👋 Hola mi nombre es Miguel
 
 🎓 Estudiante de **Ingeniería Electrónica** en la **Universidad Santo Tomás** (Bogotá, Colombia).  
 🤖 Miembro del **grupo de investigación en Robótica**, donde aprendo y desarrollo proyectos relacionados con automatización e inteligencia artificial.  
