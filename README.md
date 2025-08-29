@@ -1,5 +1,5 @@
-
-<h1 align="center">👋 Hola, soy Miguel Caro</h1>
+<!-- Perfil de GitHub: Miguel Caro -->
+<h1 align="center">👋 Hola, soy Miguel </h1>
 
 <p align="center">
   Estudiante de <strong>Ingeniería Electrónica</strong> en la <strong>Universidad Santo Tomás</strong> (Bogotá, Colombia).<br/>
@@ -26,22 +26,22 @@
 <ul>
   <li>✉️ Correo: <a href="mailto:mc240906@gmail.com">mc240906@gmail.com</a></li>
   <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/MiguelCaro06" target="_blank" rel="noopener">linkedin.com/in/MiguelCaro06</a></li>
-  <li>🌐 GitHub: <a href="https://github.com/MiguelCaro06" target="_blank" rel="noopener">github.com/MiguelCaro06</a></li>
+
 </ul>
 
 <hr/>
 
-<!-- Estadísticas de GitHub y GIF -->
+<!-- Estadísticas de GitHub y GIF (GIF a la derecha) -->
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=MiguelCaro06&show_icons=true&hide_title=true&include_all_commits=true&theme=tokyonight" alt="Stats de GitHub"/>
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCaro06&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
     </td>
-    <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxwbjMwem1seDFpOGNtaHhod2xvem90cnh3eHU3aWVsdTduMzQ2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pvyS73YWLMR9zDXuLs/giphy.gif" width="300"/>
+    <td valign="top">
+      <!-- Enlace directo recomendado: i.giphy.com -->
+      <img src="https://i.giphy.com/media/pvyS73YWLMR9zDXuLs/giphy.gif" width="300" alt="robot gif"/>
     </td>
   </tr>
 </table>
-
