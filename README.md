@@ -25,7 +25,7 @@
 <h2>📫 Contacto</h2>
 <ul>
   <li>✉️ Correo: <a href="mailto:mc240906@gmail.com">mc240906@gmail.com</a></li>
-  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/MiguelCaro06" target="_blank" rel="noopener">linkedin.com/in/MiguelCaro06</a></li>
+  <li>🔗 LinkedIn: <a href="https://www.instagram.com/_.mcaro24/" target="_blank" rel="noopener">instagram.com/_.mcaro24/</a></li>
 
 </ul>
 
