@@ -15,8 +15,8 @@
 - 🎯 Objetivo: crecer como ingeniero y desarrollador, aportando a proyectos innovadores.  
 
 ## 📊 Stats de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MiguelCaro06&show_icons=true&theme=tokyonight)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCaro06&layout=compact&theme=tokyonight)  
 
 ## 📫 Cómo contactarme
 - ✉️ [Tu correo aquí]  
